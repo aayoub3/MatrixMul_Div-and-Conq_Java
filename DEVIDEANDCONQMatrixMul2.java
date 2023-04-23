@@ -2,7 +2,7 @@
 // Devide and Conquer MM
 // This code takes the matrix size 'r' from the user for example r=4,
 // and generates two random matrices of size r x r , and calculate the 
-// result of multiplying both time each other.
+// result of multiplying both time each other. Also it claculates algorithm execution time.
 
 package com.mycompany.devideandconqmatrixmul2;
 
