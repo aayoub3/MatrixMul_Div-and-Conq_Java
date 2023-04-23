@@ -1,4 +1,5 @@
-//By:Abanob Ayoub CS3310 "Devide and Conquer MM"
+// COPYRIGHTS.© ABANOB AYOUB 
+//"Devide and Conquer MM"
 //This code takes the matrix size 'r' from the user for example r=4,
 //and generates two random matrices of size r x r , and calculate the 
 //result of multiplying both time each other.
@@ -172,3 +173,6 @@ public static void main(String[] args) {
       System.out.println("Algorithm Execution Time: " + executionTimeInSeconds + " seconds");
 }
 }
+
+// COPYRIGHTS.© ABANOB AYOUB 
+// COPYRIGHTS.© ABANOB AYOUB 
